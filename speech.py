@@ -1,6 +1,6 @@
 import speech_recognition as sr
 
-filename = "audiofile1.wav"
+filename = "audiofile.wav"
 
 # initialize the recognizer
 r = sr.Recognizer()
